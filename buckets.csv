@@ -2,5 +2,3 @@ name,storage_class,location
 playground-bucket-11,NEARLINE,us-west1
 playground-bucket-12,NEARLINE,us-central1
 playground-bucket-13,NEARLINE,us-central1
-playground-bucket-14,NEARLINE,us-central1
-playground-bucket-15,NEARLINE,us-central1
